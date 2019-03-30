@@ -40,7 +40,7 @@ _A list of my commonly used Git commands_
 | `git checkout -- [file-name.txt]` | Discard changes to a file |
 | `git merge [branch name]` | Merge a branch into the active branch |
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
-| `git stash` | Stash changes in a dirty working directory |
+| `git stash` | Stash changes in a dirty working directory or saves the local working directory changes |
 | `git stash clear` | Remove all stashed entries |
 
 ### Sharing & Updating Projects
@@ -62,7 +62,7 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
-| `git diff [source branch] [target branch]` | Preview changes before merging |
+| `git diff [source branch] [target branch]` | Preview changes before merging or if i want to differentiatr the branches then i will use this command|
 
 ### stash & Commands
 
